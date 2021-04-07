@@ -1,0 +1,5 @@
+install.packages("spatstat")
+install.packages("rgdal")
+install.packages("maptools")
+install.packages("ggplot2")
+install.packages("ggspatial")

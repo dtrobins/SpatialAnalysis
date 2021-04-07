@@ -1,0 +1,8 @@
+install.packages("rgdal")
+install.packages("sp")
+install.packages("ggmap")
+install.packages("sf")
+install.packages("ggspatial")
+install.packages("patchwork")
+install.packages("ggplot2")
+install.packages("rgeos")
